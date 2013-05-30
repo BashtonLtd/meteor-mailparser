@@ -1,0 +1,1 @@
+mailparser = Npm.require('mailparser');
