@@ -8,4 +8,5 @@ Npm.depends({
 
 Package.on_use(function (api, where) {
   api.add_files('mailparser-server.js', 'server');
+  api.export(['mailparser'], 'server');
 });

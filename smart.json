@@ -3,6 +3,6 @@
   "description": "Meteor smart package of the mailparser node module.",
   "homepage": "http://github.com/BashtonLtd/meteor-mailparser",
   "author": "David Watson",
-  "version": "0.3.6",
+  "version": "0.3.8",
   "git": "https://github.com/BashtonLtd/meteor-mailparser.git"
 }
