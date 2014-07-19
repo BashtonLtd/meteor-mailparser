@@ -3,7 +3,7 @@ Package.describe({
 })
 
 Npm.depends({
-  "mailparser": "0.3.6"
+  "mailparser": "0.4.4"
 });
 
 Package.on_use(function (api, where) {
